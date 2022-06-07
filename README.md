@@ -12,18 +12,18 @@ In this game, I have connected the websocket for the game logic. I have use thes
 ## Installation
 
 ```bash
-$ yarn install
+$ npm install
 ```
 
 ## Running the app
 
 ```bash
 # To Run Game
-$ yarn start
+$ npm start
 
 # To Test
-$ yarn test
+$ npm test
 
 # To Create Build
-$ yarn build
+$ npm run build
 ```
